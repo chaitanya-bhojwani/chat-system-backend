@@ -1,0 +1,7 @@
+{
+  "port": 8080,
+  "sql_db_conn_url": "jdbc:mysql://localhost/chat",
+  "sql_db_user": "root",
+  "sql_db_passwd": "root1234",
+  "max_jdbc_poolsize": 5
+}

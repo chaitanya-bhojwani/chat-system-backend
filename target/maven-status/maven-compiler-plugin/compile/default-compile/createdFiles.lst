@@ -1,0 +1,11 @@
+com/pq/dao/BaseDao.class
+com/pq/dao/ChatDao.class
+com/pq/routes/MainRouters.class
+com/pq/utils/LogFactory.class
+com/pq/controllers/ChatHistoryController.class
+com/pq/utils/ConfigurationManager.class
+com/pq/verticles/MainVerticles.class
+com/pq/service/ChatHistoryService.class
+com/pq/controllers/HealthCheckController.class
+com/pq/utils/UtilityFunction.class
+com/pq/service/MQTTService.class
